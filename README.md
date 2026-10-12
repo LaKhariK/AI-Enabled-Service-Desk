@@ -17,21 +17,6 @@ An AI-powered IT Help Desk application inspired by ServiceNow, built with React,
 - **Backend:** Node.js, Express
 - **AI:** Anthropic Claude (claude-sonnet-4-20250514)
 
-## Setup
-
-```bash
-git clone <your-repo>
-cd helpdesk2
-npm run install:all
-
-cd server
-cp .env.example .env
-# Add your ANTHROPIC_API_KEY to .env
-
-cd ..
-npm run dev
-```
-
 ## Built by
 
 LaKhari King — [lakhariking.com](https://lakhariking.com)
